@@ -1,0 +1,6 @@
+# Core
+django==4.2.28                     # Latest Django compatible with Python 3.8
+djangorestframework==3.14.0        # Latest stable DRF for Python 3.8
+
+# JWT Authentication (optional)
+djangorestframework-simplejwt==5.3.1
